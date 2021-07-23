@@ -1,0 +1,24 @@
+# IDE
+.idea
+
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+
+**/target/*
+*.iml
+/target/**
+/out/*
+target
+StatisticsUtil_win
+StatisticsUtil_win.zip
+StatisticsUtil_win/**
+StatisticsUtil_nix.zip
+StatisticsUtil_nix
+StatisticsUtil_nix/**
+StatisticsUtil_mac
+StatisticsUtil_mac.zip
+StatisticsUtil_mac/**
